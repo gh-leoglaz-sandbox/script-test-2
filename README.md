@@ -3,6 +3,7 @@
 - Class Date: July 21,2025
 - Facilitator: @leoglaz
 
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
